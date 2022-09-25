@@ -16,6 +16,7 @@ this is the final project of the first "Java Syntax" module at JavaRush Universi
 ## 
 
 **02. Java Core.** <br>
+https://github.com/LeeTovetz/JRU-JavaCore<br>
 **Deepening into OOP: encapsulation and polymorphism, composition, aggregation and inheritance. Abstract classes. Stream API. Type casting, constructor calls, Object constructor. Recursion, familiarity with strings, inner/nested classes. Serialization. Annotations. Sockets. Final project.**<br>
 
 ##
