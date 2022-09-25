@@ -8,7 +8,7 @@ Training on the course consists of 5 modules + practical module (performing a gr
 
 **01. Java Syntax.** <br>
 https://github.com/LeeTovetz/JRU-JavaSyntax<br>
-**Dedicated to the study of commands, data types, familiarity with the development environment IntelliJ IDEA, loops and conditional operators, arrays and functions, objects, classes; work with strings. Students are also introduced to the basics of OOP, lists and generics, collections, exceptions, I/O streams, working with time and date. The module concludes with an introduction to Git and the writing of a final project.**<br>
+Dedicated to the study of commands, data types, familiarity with the development environment IntelliJ IDEA, loops and conditional operators, arrays and functions, objects, classes; work with strings. Students are also introduced to the basics of OOP, lists and generics, collections, exceptions, I/O streams, working with time and date. The module concludes with an introduction to Git and the writing of a final project.<br>
 
 <a href="https://github.com/LeeTovetz/ua.com.javarush.november.Kravchenko.CryptAnalyzer" >**CryptAnalyzer**</a> -> 
 this is the final project of the first "Java Syntax" module at JavaRush University.<br>
