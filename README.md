@@ -19,6 +19,9 @@ this is the final project of the first "Java Syntax" module at JavaRush Universi
 https://github.com/LeeTovetz/JRU-JavaCore<br>
 **Deepening into OOP: encapsulation and polymorphism, composition, aggregation and inheritance. Abstract classes. Stream API. Type casting, constructor calls, Object constructor. Recursion, familiarity with strings, inner/nested classes. Serialization. Annotations. Sockets. Final project.**<br>
 
+<a href="https://github.com/LeeTovetz/ua.com.javarush.november.Kravchenko.island" >**Island**</a> -> 
+this is the final project of the second "Java Core" module at JavaRush University.<br>
+
 ##
 
 **03. Java Professional.** Garbage collection and reference types in Java. Design patterns. Development methodologies. Maven basics, introduction to Guava, Apache Common Collections, JUnit and Mockito. Logging. Networking. Software architecture. HTTP/HTTPS protocols. Servlets, servlet containers, Tomcat. Introduction to MVC. Web services. Final project: Servlet-quest contest.<br>
