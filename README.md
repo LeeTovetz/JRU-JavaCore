@@ -19,7 +19,7 @@ this is the final project of the first "Java Syntax" module at JavaRush Universi
 https://github.com/LeeTovetz/JRU-JavaCore<br>
 **Deepening into OOP: encapsulation and polymorphism, composition, aggregation and inheritance. Abstract classes. Stream API. Type casting, constructor calls, Object constructor. Recursion, familiarity with strings, inner/nested classes. Serialization. Annotations. Sockets. Final project.**<br>
 
-<a href="https://github.com/LeeTovetz/ua.com.javarush.november.Kravchenko.island" >**Island**</a> -> 
+<a href="https://github.com/LeeTovetz/ua.com.javarush.november.Kravchenko.island" >**Animal Life Simulation Island**</a> -> 
 this is the final project of the second "Java Core" module at JavaRush University.<br>
 
 ##
